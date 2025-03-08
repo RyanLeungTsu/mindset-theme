@@ -135,6 +135,14 @@
 						"top": "0.75em"
 					}
 				}
+			},
+			"core/post-featured-image": {
+				"css": ".recent-post {\n  display: grid;\n  grid-template-columns: repeat(2, 1fr); \n  gap: 20px; \n}"
+			},
+			"core/pullquote": {
+				"typography": {
+					"fontSize": "var(--wp--preset--font-size--large)"
+				}
 			}
 		},
 		"color": {
